@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+apache-ant-1.9.15/
+
+ant-salesforce.jar
